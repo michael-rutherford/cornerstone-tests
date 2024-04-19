@@ -2,4 +2,4 @@ npm install
 
 npx webpack
 
-npm run dev
+npm run start
